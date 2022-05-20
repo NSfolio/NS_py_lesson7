@@ -1,0 +1,5 @@
+print("Hello!")
+name = input("What's your name? _")
+print("Hi,", name, "! I'm Nat. Nice to meet you!")
+age = input("How old are you? _")
+print("Looks good,", name)
